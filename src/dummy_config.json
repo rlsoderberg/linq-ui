@@ -1,0 +1,29 @@
+{
+	"username": "linq_user",
+	"keywords": [
+		{
+			"keyword": "stream schedule",
+			"responses": [
+				"I'm streaming MWF at 10am",
+				"I stream 3 times a week"
+			],
+			"autoreply": true
+		},
+		{
+			"keyword": "nice video",
+			"responses": [
+				"Thanks!",
+				"Thank you!"
+			],
+			"autoreply": true
+		},
+		{
+			"keyword": "how are you",
+			"responses": [
+				"Doing well thanks!",
+				"I'm great, how are you?"
+			],
+			"autoreply": true
+		}
+	]
+}

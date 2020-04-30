@@ -1,0 +1,105 @@
+{
+	"comments": [
+		{
+			"username": "xXdr4g0n_sl4y3rXx",
+			"timestamp": "2020-01-22 22:19:46",
+			"commentId": "1234567890",
+			"commentText": "hey what is your stream schedule?",
+			"keywords": [
+				"stream schedule"
+			],
+			"platform": "twitter",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "fan_of_urs123",
+			"timestamp": "2020-01-11 11:21:45",
+			"commentId": "1234567890",
+			"commentText": "this was a nice video!",
+			"keywords": [
+				"nice video"
+			],
+			"platform": "youtube",
+			"mediaId": "0987654321"
+		},
+    {
+			"username": "CopperCorgi",
+			"timestamp": "2020-04-03 23:58:20",
+			"commentId": "1234567890",
+			"commentText": "Your art is lame >:(",
+			"keywords": [],
+			"platform": "reddit",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "catzilla",
+			"timestamp": "2020-02-08 19:06:31",
+			"commentId": "1234567890",
+			"commentText": "Where did you get that food?",
+			"keywords": [],
+			"platform": "twitch",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "fan_of_urs123",
+			"timestamp": "2020-02-03 21:32:04",
+			"commentId": "1234567890",
+			"commentText": "yo nice video. how are you dude?",
+			"keywords": [
+				"nice video",
+				"how are you"
+			],
+			"platform": "youtube",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "orangeyouglad",
+			"timestamp": "2020-02-27 00:23:37",
+			"commentId": "1234567890",
+			"commentText": "I like your cat",
+			"keywords": [],
+			"platform": "twitch",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "xXdr4g0n_sl4y3rXx",
+			"timestamp": "2020-03-22 16:01:23",
+			"commentId": "1234567890",
+			"commentText": "Where do we donate? This is a nice video!",
+			"keywords": [
+        "nice video"
+			],
+			"platform": "youtube",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "some_kinda_spam_guy",
+			"timestamp": "2020-02-22 13:15:52",
+			"commentId": "1234567890",
+			"commentText": "sub for sub?",
+			"keywords": [],
+			"platform": "youtube",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "double_triple_quad234",
+			"timestamp": "2020-01-23 17:24:33",
+			"commentId": "1234567890",
+			"commentText": "Love this content! Can't wait for more!",
+			"keywords": [],
+			"platform": "twitter",
+			"mediaId": "0987654321"
+		},
+		{
+			"username": "xXdr4g0n_sl4y3rXx",
+			"timestamp": "2020-02-03 01:15:30",
+			"commentId": "1234567890",
+			"commentText": "Hey how are you?",
+			"keywords": [
+				"how are you"
+			],
+			"platform": "reddit",
+			"mediaId": "0987654321"
+		}
+	]
+}
