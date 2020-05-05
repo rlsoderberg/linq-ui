@@ -1,0 +1,179 @@
+@import "colors.scss";
+@import "global.scss";
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color:$light-grey;
+    font-family:arial;
+}
+.top-bar-nav{
+    background-color:$dark-grey;
+    height:80%;
+    position:absolute;
+    top:0%; right:0%;
+}
+
+h1{
+    color:white;
+    font-size:4em;
+    padding:5px;
+}
+.user-loggedin{
+    padding:0% 2%;
+    margin-top:-20px;
+}
+  .comments-views{
+      padding:0% 2%;
+  }
+  .user-options{
+    display:flex;
+    margin:auto;
+    width:40%;
+    position:absolute;
+    top:0px;
+    right:0px;
+  }
+  h2{
+      color:black;
+      font-size:20px;
+  }
+  .column {
+    padding:2px;
+    margin:auto;
+    float:left;
+  }
+  h3{
+    color:$dark-grey;
+    font-size:30px;
+  }
+  .comment-container{
+      background-color:white;
+      width:70%;
+      margin:3% 20% 0% 10%;
+      box-shadow: 30px 20px 0px 0px $dark-grey;
+  }
+  h4{
+    color:black;
+    font-size:20px;
+    font-weight:600;
+  }
+  .social-icon{
+      float:left;
+      margin:2%;
+  }
+  .profile-picture{
+      border-radius:50%;
+  }
+  .comment-popup{
+      background-color:$light-grey;
+      width:80%;
+      margin:0% 10% 0% 10%;
+  }
+  .highlight{
+      color:$blue;
+      font-weight:800;
+  }
+.comments-views{
+    line-height:30px;
+    text-decoration:none;
+    position:absolute;
+    top:200px;
+    left:20%;
+}
+.view-choices{
+    color:white;
+    font-size:20px;
+}
+.settings-button{
+    position:absolute;left:10%;top:130px;
+}
+.logout-button{
+    position:absolute;left:10%;top:160px;
+}
+.subtle-highlight{
+    color:$blue;
+}
+.comment-platform-image{
+    float:left;
+}
+.response-dialog{
+    background:white;
+    text-align:center;
+    width:50%;
+    position:absolute;
+    left:25%;
+}
+
+.comment-username{
+    color:black;
+}
+.contrast-highlight{
+    color:$blue;
+}
+.comment-dialog-close{
+position:absolute;
+left:0;
+top:0;
+}
+.settings-container{
+    background:white;
+    text-align:center;
+    width:50%;
+    position:absolute;
+    left:25%;
+}
+.close-settings{
+    position:absolute;
+left:0;
+top:0;
+}
+.contrast-highlight{
+    color:$blue;
+}
+.delete-keyword{
+    opacity: 0%;
+}
+.keyword{
+    background-color:$light-grey;
+    margin:5%;
+    min-height:170px;
+}
+.response{
+    width:50%;
+    float:left;
+}
+.add-response-button{
+    margin-bottom:2%;
+}
+.keyword-top{
+    width:50%;
+    float:left;
+}
+.login{
+    background-color:$dark-grey;
+    padding:2%;
+    width:60%;
+    position:absolute;
+    top:10%;
+    left:10%;
+}
+
+.comment-container{
+    padding:2%;
+    margin:2%;
+}
+
+.keywords-list{
+    height:600px;
+    overflow:scroll;
+}
+
+.responses-list{
+    background-color:$light-grey;
+    padding:2%;
+}
+.response-dialog{
+    height:600px;
+    overflow:scroll;
+}
